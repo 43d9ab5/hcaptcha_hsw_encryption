@@ -1,0 +1,1 @@
+# hcaptcha_hsw_encryption
