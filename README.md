@@ -11,7 +11,6 @@ this repo has been posted with explicit permission from both gravilk and bebe an
 @gravilk on telegram and discord
 @0e4743fc5ff7d786c9af81a39a0724b4 on discord (bebe)
 
-![hindi](https://github.com/user-attachments/assets/8ffe3990-a5b9-4302-8bf1-58b486387b67)
 ![image](https://github.com/user-attachments/assets/2914828c-a695-4c38-b80e-dae0584ea82e)
 
 version - https://newassets.hcaptcha.com/c/6c2596db2ce08d2f8763801d158624c790db3d34b0235bb33999fd85979fac64/hsw.js
