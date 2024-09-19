@@ -1,5 +1,5 @@
 Ave Christus Rex
-![video](https://github.com/user-attachments/assets/4be9365e-79e8-4cef-b32f-6cb178af4f7b)
+[video](https://github.com/user-attachments/assets/4be9365e-79e8-4cef-b32f-6cb178af4f7b)
 
 hello. this is gravilk writing this. it's been over a year since we initially found the encryption key in the old old script. since then a lot of other hard working people have found it. we've decided to publish this because it has come to our attention that somebody has likely already leaked/sold this information to multiple people. i'm sorry to all the people this might affect in the future but i believe in your skills and believe you can reverse this again after an update drops. my friend (bebe) is already working on a better solution that will not be published.
 
